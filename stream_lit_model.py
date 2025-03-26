@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 
-model = pickle.load(open(r'C:\`NTechnology\RESUME_PROJECT\Employ_salary_prediction_model\linear_regression_model.pkl', 'rb'))
+model = pickle.load(open(r'https://github.com/githubatulubale/salary_prediction/blob/main/linear_regression_model.pkl', 'rb'))
 
 
 # Set the title of the Streamlit app
